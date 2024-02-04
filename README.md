@@ -1,4 +1,4 @@
-# Autenticação com JWT em PHP
+# Autenticação com JWT em PHP Puro
 
 Este repositório contém um exemplo simples de autenticação com JSON Web Tokens (JWT) em PHP. Ele consiste em três páginas:
 
