@@ -15,6 +15,7 @@ Antes de executar este exemplo, certifique-se de ter o seguinte:
 - Extensão PDO habilitada para interagir com o banco de dados.
 - A biblioteca Firebase JWT PHP para lidar com JWT. Esta biblioteca está incluída no arquivo `composer.json` e pode ser instalada executando `composer install`.
 - A biblioteca PHPDOTENV para lidar com o .env. Esta Biblioteca esta íncluida no arquivo 'composer.json' e pode ser instalada executando 'composer install'
+- Uso da framework Bootstrap também vai ser necessário para um front end razoavel.
 
 ## Configuração do Banco de Dados
 
